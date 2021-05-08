@@ -1,0 +1,16 @@
+co/konecta/test/certificate/questions/TheMessage.java
+ co.konecta.test.certificate.questions.TheMessage
+co/konecta/test/certificate/userinterface/LoginPage.java
+ co.konecta.test.certificate.userinterface.LoginPage
+co/konecta/test/certificate/task/LoginTask.java
+ co.konecta.test.certificate.task.LoginTask
+co/konecta/test/certificate/userinterface/HomePage.java
+ co.konecta.test.certificate.userinterface.HomePage
+co/konecta/test/certificate/userinterface/BusinessUnitPage.java
+ co.konecta.test.certificate.userinterface.BusinessUnitPage
+co/konecta/test/certificate/task/BusinessUnitTask.java
+ co.konecta.test.certificate.task.BusinessUnitTask
+co/konecta/test/certificate/task/MeetingTask.java
+ co.konecta.test.certificate.task.MeetingTask
+co/konecta/test/certificate/userinterface/MeetingPage.java
+ co.konecta.test.certificate.userinterface.MeetingPage

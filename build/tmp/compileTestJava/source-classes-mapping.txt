@@ -1,0 +1,12 @@
+co/konecta/test/certificate/runners/LoginRunner.java
+ co.konecta.test.certificate.runners.LoginRunner
+co/konecta/test/certificate/stepsdefinitions/LoginStepsDefinitions.java
+ co.konecta.test.certificate.stepsdefinitions.LoginStepsDefinitions
+co/konecta/test/certificate/runners/BusinessUnitRunner.java
+ co.konecta.test.certificate.runners.BusinessUnitRunner
+co/konecta/test/certificate/stepsdefinitions/BusinessUnitStepsDefinitions.java
+ co.konecta.test.certificate.stepsdefinitions.BusinessUnitStepsDefinitions
+co/konecta/test/certificate/runners/MeetingRunner.java
+ co.konecta.test.certificate.runners.MeetingRunner
+co/konecta/test/certificate/stepsdefinitions/MeetingStepsDefinitions.java
+ co.konecta.test.certificate.stepsdefinitions.MeetingStepsDefinitions
